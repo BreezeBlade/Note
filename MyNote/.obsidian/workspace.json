@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -138,7 +140,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "random 的大纲"
+              "title": "Outline"
             }
           }
         ],
@@ -151,16 +153,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ae4b961f1520522e",
+  "active": "27206adb47ffcad1",
   "lastOpenFiles": [
-    "tagalog/random.md",
     "nothing/论学习.md",
     "English/random.md",
+    "tagalog/random.md",
     "markdown/语法.md",
     "日记/日记.md",
     "日记",

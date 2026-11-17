@@ -1070,4 +1070,33 @@
 32. boilerplate  样板文件
 33. verbatim  逐字的 n./adj.
 34. curly brace  花括号
-35. 
+35. malicious
+36. splice
+37. taxi meter 
+38. meter reading
+39. meter
+40. gain recognition
+41. being featured as
+42. The episode ==aired== last night.    最新的一集昨晚上映
+43. premiere    首次公演
+44. premier    首相
+45. period &  full stop     句号
+46. veranda     阳台，走廊
+47. faucet     水龙头
+48. tap    水龙头（n）  轻拍（v)
+49. spigot    水龙头
+50. dryer    烘干机
+## batch22
+51. be wasted on    白白浪费了
+52. flickering lights    闪光
+53. creepy     令人毛骨悚然的
+54. **grudge**    不满（n.)  不情愿做(v.)
+55. picky    挑剔的，过分讲究的
+56. avid     渴望的，贪心的
+57. larynx    喉
+58. angelic    天使般的
+59. moderator    会议主持人
+60. anomaly    不正常（名词）
+61. resonate  v.共鸣、回响、联想
+62. gratify  v.使满足，使高兴
+63. embark v. 上船/飞机   从事、着手干
