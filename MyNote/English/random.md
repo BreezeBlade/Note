@@ -1069,3 +1069,5 @@
 31. parenthese  括号
 32. boilerplate  样板文件
 33. verbatim  逐字的 n./adj.
+34. curly brace  花括号
+35. 
