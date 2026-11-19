@@ -1100,3 +1100,6 @@
 61. resonate  v.共鸣、回响、联想
 62. gratify  v.使满足，使高兴
 63. embark v. 上船/飞机   从事、着手干
+35. implicit    暗示的，含蓄的
+36. explicit  显示的，详述的，明确的，直言的
+37. 
